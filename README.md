@@ -24,10 +24,10 @@ This is a simple calculator application built using **MIT App Inventor** as a de
 The following screenshots showcase the app's design and logic:
 
 ### UI Design
-![UI Design](Screenshots/logic.png)
+![UI Design](Screenshots/image1.png)
 
 ### Block Logic
-![Block Logic](Screenshots/design.png)
+![Block Logic](Screenshots/image2.png)
 
 ## Presentation
 For a detailed walkthrough, refer to the presentation linked below:
