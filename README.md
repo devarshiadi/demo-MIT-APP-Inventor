@@ -21,9 +21,17 @@ This is a simple calculator application built using **MIT App Inventor** as a de
 5. Test the app using **AI Companion** or export it as an APK.
 
 ## Screenshots
-Refer to the **Screenshots** folder for UI design and block logic examples:
-- **UI Design**: Shows the drag-and-drop interface.
-- **Block Logic**: Displays the programmed logic for arithmetic calculations.
+The following screenshots showcase the app's design and logic:
+
+### UI Design
+![UI Design](Screenshots/design.png)
+
+### Block Logic
+![Block Logic](Screenshots/logic.png)
+
+## Presentation
+For a detailed walkthrough, refer to the presentation linked below:
+[Click here to view the presentation](#) *(Replace with actual link)*
 
 ## Technologies Used
 - **MIT App Inventor**
@@ -35,9 +43,6 @@ Refer to the **Screenshots** folder for UI design and block logic examples:
 - Adding advanced mathematical functions.
 
 ## Author
-Aditya Devarshi
-
+EduGenius Team
 
 ---
-This is a basic demonstration to showcase how a simple calculator can be designed in MIT App Inventor. Feel free to modify and improve the app as per your requirements!
-
