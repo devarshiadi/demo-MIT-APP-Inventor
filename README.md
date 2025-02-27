@@ -38,9 +38,7 @@ For a detailed walkthrough, refer to the presentation linked below:
 - **Block-based programming**
 - **Android App Development** (for testing and deployment)
 
-## Future Improvements
-- Enhancing the UI with animations and better layouts.
-- Adding advanced mathematical functions.
+
 
 ## Author
 Aditya Devarshi
