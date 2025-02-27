@@ -43,6 +43,6 @@ For a detailed walkthrough, refer to the presentation linked below:
 - Adding advanced mathematical functions.
 
 ## Author
-EduGenius Team
+Aditya Devarshi
 
 ---
