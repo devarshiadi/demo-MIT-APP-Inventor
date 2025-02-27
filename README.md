@@ -31,7 +31,7 @@ The following screenshots showcase the app's design and logic:
 
 ## Presentation
 For a detailed walkthrough, refer to the presentation linked below:
-[Click here to view the presentation](#) *(Replace with actual link)*
+[Click here to view the presentation](https://us05web.zoom.us/j/89430487662?pwd=QAVOJbl7Qn81ip2fzPGA2txoc1lQYy.1) 
 
 ## Technologies Used
 - **MIT App Inventor**
